@@ -1,16 +1,1 @@
-{
-  "12": [
-    {
-      "type": "text",
-      "title": "1",
-      "text": "1",
-      "favorite": false
-    },
-    {
-      "type": "photo",
-      "title": "1",
-      "url": "https://cdn.jsdelivr.net/gh/apor76-cmyk/data@main/images/photo_1773236558924.JPG",
-      "favorite": false
-    }
-  ]
-}
+{"1":[{"id":1773239120439,"title":"1","type":"photo","url":"https://raw.githubusercontent.com/apor76-cmyk/dataopen/main/images/photos/1773239120439.jpg","thumb":"https://raw.githubusercontent.com/apor76-cmyk/dataopen/main/images/thumbs/1773239120439.jpg","favorite":false,"encrypted":false}]}
